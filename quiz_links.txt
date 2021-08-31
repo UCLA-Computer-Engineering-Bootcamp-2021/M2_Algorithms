@@ -1,10 +1,11 @@
 quiz 1: https://forms.gle/wp75PpGDam13MnT47
 
-quiz 2, shown at which one runs faster: https://forms.gle/N7GbC87MUYms5p2e6
-time complexity runs in number of operations
+
+	quiz 2, shown at which one runs faster: https://forms.gle/N7GbC87MUYms5p2e6
+	time complexity runs in number of operations
 
 quiz 3, shown at upper bound O notation: https://forms.gle/1MZChUU3vQKTMTZd7
 
-quiz 4, shown at the locker problem: https://forms.gle/8TWVd4E1WbTufYV67
+	quiz 4, shown at the locker problem: https://forms.gle/8TWVd4E1WbTufYV67
 
 quiz 5, shown at the end of the binary search example: https://forms.gle/GErKTp1s2hemB5Te8
